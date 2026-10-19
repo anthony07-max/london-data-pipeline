@@ -1,0 +1,230 @@
+[
+ {
+  "id": "bakerloo",
+  "name": "Bakerloo",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "central",
+  "name": "Central",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "circle",
+  "name": "Circle",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "district",
+  "name": "District",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "dlr",
+  "name": "DLR",
+  "modeName": "dlr",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "elizabeth",
+  "name": "Elizabeth line",
+  "modeName": "elizabeth-line",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "hammersmith-city",
+  "name": "Hammersmith & City",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "jubilee",
+  "name": "Jubilee",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "liberty",
+  "name": "Liberty",
+  "modeName": "overground",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "lioness",
+  "name": "Lioness",
+  "modeName": "overground",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "metropolitan",
+  "name": "Metropolitan",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "mildmay",
+  "name": "Mildmay",
+  "modeName": "overground",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "northern",
+  "name": "Northern",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "piccadilly",
+  "name": "Piccadilly",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "suffragette",
+  "name": "Suffragette",
+  "modeName": "overground",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "victoria",
+  "name": "Victoria",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "statusSeverity": 9,
+    "statusSeverityDescription": "Minor Delays",
+    "reason": "Victoria Line: Minor delays between Seven Sisters and Walthamstow Central due to train cancellations. GOOD SERVICE on the rest of the line. "
+   }
+  ]
+ },
+ {
+  "id": "waterloo-city",
+  "name": "Waterloo & City",
+  "modeName": "tube",
+  "lineStatuses": [
+   {
+    "statusSeverity": 20,
+    "statusSeverityDescription": "Service Closed",
+    "reason": "Waterloo and City Line: Service will resume at 06:00.\r\n "
+   }
+  ]
+ },
+ {
+  "id": "weaver",
+  "name": "Weaver",
+  "modeName": "overground",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ },
+ {
+  "id": "windrush",
+  "name": "Windrush",
+  "modeName": "overground",
+  "lineStatuses": [
+   {
+    "statusSeverity": 10,
+    "statusSeverityDescription": "Good Service",
+    "reason": null
+   }
+  ]
+ }
+]

@@ -1,0 +1,15 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# SQLite temp files
+data/*.db-journal
+data/*.db-wal
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
