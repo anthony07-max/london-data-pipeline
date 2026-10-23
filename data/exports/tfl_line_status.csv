@@ -151,3 +151,22 @@ snapshot_at,line_id,line_name,mode,status_severity,status,reason
 2026-10-22T06:51:00Z,waterloo-city,Waterloo & City,tube,10,Good Service,
 2026-10-22T06:51:00Z,weaver,Weaver,overground,10,Good Service,
 2026-10-22T06:51:00Z,windrush,Windrush,overground,10,Good Service,
+2026-10-23T06:51:00Z,bakerloo,Bakerloo,tube,10,Good Service,
+2026-10-23T06:51:00Z,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to an earlier faulty train at Perivale and following a late finish of engineering work.
+2026-10-23T06:51:00Z,circle,Circle,tube,10,Good Service,
+2026-10-23T06:51:00Z,district,District,tube,10,Good Service,
+2026-10-23T06:51:00Z,dlr,DLR,dlr,10,Good Service,
+2026-10-23T06:51:00Z,elizabeth,Elizabeth line,elizabeth-line,10,Good Service,
+2026-10-23T06:51:00Z,hammersmith-city,Hammersmith & City,tube,10,Good Service,
+2026-10-23T06:51:00Z,jubilee,Jubilee,tube,10,Good Service,
+2026-10-23T06:51:00Z,liberty,Liberty,overground,10,Good Service,
+2026-10-23T06:51:00Z,lioness,Lioness,overground,10,Good Service,
+2026-10-23T06:51:00Z,metropolitan,Metropolitan,tube,10,Good Service,
+2026-10-23T06:51:00Z,mildmay,Mildmay,overground,6,Severe Delays,Mildmay Line: Severe delays while we fix a signal failure at Stratford.
+2026-10-23T06:51:00Z,northern,Northern,tube,10,Good Service,
+2026-10-23T06:51:00Z,piccadilly,Piccadilly,tube,3,Part Suspended,Piccadilly Line: No service between Rayners Lane and Uxbridge. SEVERE DELAYS between Acton Town and Cockfosters eastbound only while we fix a signal failure. Please use the Metropolitan line between Rayners Lane and Uxbridge. Tickets are being accepted on London Buses and Elizabeth Line. MINOR DELAYS on the rest of the line.
+2026-10-23T06:51:00Z,suffragette,Suffragette,overground,10,Good Service,
+2026-10-23T06:51:00Z,victoria,Victoria,tube,10,Good Service,
+2026-10-23T06:51:00Z,waterloo-city,Waterloo & City,tube,2,Suspended,Waterloo and City Line: No service due to the unavailability of control room staff. Tickets are being accepted on London Buses.
+2026-10-23T06:51:00Z,weaver,Weaver,overground,10,Good Service,
+2026-10-23T06:51:00Z,windrush,Windrush,overground,10,Good Service,
