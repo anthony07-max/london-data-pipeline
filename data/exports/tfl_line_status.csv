@@ -189,3 +189,22 @@ snapshot_at,line_id,line_name,mode,status_severity,status,reason
 2026-10-24T06:48:00Z,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
 2026-10-24T06:48:00Z,weaver,Weaver,overground,10,Good Service,
 2026-10-24T06:48:00Z,windrush,Windrush,overground,10,Good Service,
+2026-10-25T06:48:00Z,bakerloo,Bakerloo,tube,10,Good Service,
+2026-10-25T06:48:00Z,central,Central,tube,10,Good Service,
+2026-10-25T06:48:00Z,circle,Circle,tube,5,Part Closure,"CIRCLE LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road and Tower Hill (via Victoria)"
+2026-10-25T06:48:00Z,district,District,tube,5,Part Closure,"DISTRICT LINE: Saturday 24 and Sunday 25 October, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening, please use the PICCADILLY LINE to/from Earls Court and continue at street level."
+2026-10-25T06:48:00Z,dlr,DLR,dlr,5,Part Closure,"DOCKLANDS LIGHT RAILWAY: Sunday 25 October, no service between Shadwell and Tower Gateway."
+2026-10-25T06:48:00Z,elizabeth,Elizabeth line,elizabeth-line,7,Reduced Service,"ELIZABETH LINE: Sunday 25 October, a reduced service operates between Hayes & Harlington and Maidenhead. Two trains an hour serve West Drayton, Langley, Slough, Burnham and Maidenhead. From 1100 until 1900, westbound trains will not call at Burnham or Taplow, and after 1900, no trains call at Burnham or Taplow. Replacement bus service W3 operates between Slough and Maidenhead via Burnham and Taplow. At Maidenhead, from 1100, westbound trains to Twyford and Reading use Platform 1. For step-free i"
+2026-10-25T06:48:00Z,hammersmith-city,Hammersmith & City,tube,10,Good Service,
+2026-10-25T06:48:00Z,jubilee,Jubilee,tube,10,Good Service,
+2026-10-25T06:48:00Z,liberty,Liberty,overground,10,Good Service,
+2026-10-25T06:48:00Z,lioness,Lioness,overground,10,Good Service,
+2026-10-25T06:48:00Z,metropolitan,Metropolitan,tube,10,Good Service,
+2026-10-25T06:48:00Z,mildmay,Mildmay,overground,5,Part Closure,"MILDMAY LINE: From 1930 Saturday 24 until 1200 Sunday 25 October, no service between Willesden Junction and Shepherds Bush. There will also be no SOUTHERN services between Watford Junction and Shepherds Bush at these times. Please use local London Buses connections on Routes 220 and 228."
+2026-10-25T06:48:00Z,northern,Northern,tube,10,Good Service,
+2026-10-25T06:48:00Z,piccadilly,Piccadilly,tube,10,Good Service,
+2026-10-25T06:48:00Z,suffragette,Suffragette,overground,3,Part Suspended,"Suffragette Line: No service between Barking Riverside and Woodgrange Park, and MINOR DELAYS on the rest of the line due to an operational incident."
+2026-10-25T06:48:00Z,victoria,Victoria,tube,10,Good Service,
+2026-10-25T06:48:00Z,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
+2026-10-25T06:48:00Z,weaver,Weaver,overground,10,Good Service,
+2026-10-25T06:48:00Z,windrush,Windrush,overground,5,Part Closure,"WINDRUSH LINE: Sunday 25 October, no service between Sydenham and Crystal Palace. Please use local London Buses connections between Anerley and Crystal Palace."
