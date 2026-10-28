@@ -246,3 +246,22 @@ snapshot_at,line_id,line_name,mode,status_severity,status,reason
 2026-10-27T06:51:00Z,waterloo-city,Waterloo & City,tube,10,Good Service,
 2026-10-27T06:51:00Z,weaver,Weaver,overground,10,Good Service,
 2026-10-27T06:51:00Z,windrush,Windrush,overground,10,Good Service,
+2026-10-28T07:01:00Z,bakerloo,Bakerloo,tube,10,Good Service,
+2026-10-28T07:01:00Z,central,Central,tube,10,Good Service,
+2026-10-28T07:01:00Z,circle,Circle,tube,10,Good Service,
+2026-10-28T07:01:00Z,district,District,tube,10,Good Service,
+2026-10-28T07:01:00Z,dlr,DLR,dlr,10,Good Service,
+2026-10-28T07:01:00Z,elizabeth,Elizabeth line,elizabeth-line,10,Good Service,
+2026-10-28T07:01:00Z,hammersmith-city,Hammersmith & City,tube,10,Good Service,
+2026-10-28T07:01:00Z,jubilee,Jubilee,tube,9,Minor Delays,Jubilee Line: Minor delays following a late finish of engineering work at Stratford and Wembley Park.
+2026-10-28T07:01:00Z,liberty,Liberty,overground,10,Good Service,
+2026-10-28T07:01:00Z,lioness,Lioness,overground,10,Good Service,
+2026-10-28T07:01:00Z,metropolitan,Metropolitan,tube,9,Minor Delays,Metropolitan Line: Minor delays between Wembley Park and Baker Street northbound only and MINOR DELAYS between Harrow-on-the-Hill and Uxbridge due to an earlier faulty train at Neasden. GOOD SERVICE on the rest of the line.
+2026-10-28T07:01:00Z,mildmay,Mildmay,overground,10,Good Service,
+2026-10-28T07:01:00Z,northern,Northern,tube,10,Good Service,
+2026-10-28T07:01:00Z,piccadilly,Piccadilly,tube,5,Part Closure,"PICCADILLY LINE: Wednesday 28, Thursday 29 and Friday 30 October, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate."
+2026-10-28T07:01:00Z,suffragette,Suffragette,overground,5,Part Closure,Suffragette Line: No service between South Tottenham and Barking Riverside due to a operational incident. MINOR DELAYS on the rest of the line. London Underground and London Buses are accepting tickets via any reasonable routes. Disruption is expected until the end of the week.
+2026-10-28T07:01:00Z,victoria,Victoria,tube,9,Minor Delays,Victoria Line: Minor delays due to train cancellations.
+2026-10-28T07:01:00Z,waterloo-city,Waterloo & City,tube,10,Good Service,
+2026-10-28T07:01:00Z,weaver,Weaver,overground,10,Good Service,
+2026-10-28T07:01:00Z,windrush,Windrush,overground,10,Good Service,
