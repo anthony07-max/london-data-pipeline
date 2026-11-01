@@ -11,18 +11,18 @@
 The section below is rewritten by the pipeline on every run. Times are UTC.
 
 <!-- LATEST:START -->
-_Last updated by the pipeline: **2026-10-31 06:58 UTC** · 17 runs · 1,253 half-hours of carbon data since 05 Oct 2026, 631 hours of air quality, 17 TfL snapshots_
+_Last updated by the pipeline: **2026-11-01 07:04 UTC** · 18 runs · 1,303 half-hours of carbon data since 05 Oct 2026, 656 hours of air quality, 18 TfL snapshots_
 
 | Measure | Latest | Last 7 days |
 |---|---|---|
-| Grid carbon intensity, London (gCO2/kWh) | **253** (very high, 31 Oct 05:30 UTC) | mean 154.8 |
-| Cleanest / dirtiest half-hour | | 57 (Sun 25 Oct 02:30) / 289 (Thu 29 Oct 07:00) |
-| Lowest-carbon / highest-carbon hour of day (UTC, 7-day average) | | 12:00 / 17:00 |
-| Wind / gas share of generation | | 31.6% / 33.3% |
-| NO2, central London (µg/m3) | 36.7 (31 Oct 06:00 UTC) | mean 25.9 |
-| PM2.5, central London (µg/m3) | 28.3 | mean 10.0 |
-| TfL lines with Good Service | 12 of 19 (31 Oct 06:58 UTC) | |
-| TfL disruptions at last snapshot | District: Minor Delays, Jubilee: Severe Delays, Northern: Severe Delays, Piccadilly: Planned Closure, Suffragette: Part Closure, Waterloo & City: Planned Closure, Windrush: Part Closure | |
+| Grid carbon intensity, London (gCO2/kWh) | **230** (very high, 01 Nov 06:30 UTC) | mean 177.0 |
+| Cleanest / dirtiest half-hour | | 59 (Tue 27 Oct 10:00) / 289 (Thu 29 Oct 07:00) |
+| Lowest-carbon / highest-carbon hour of day (UTC, 7-day average) | | 12:00 / 18:00 |
+| Wind / gas share of generation | | 25.0% / 39.1% |
+| NO2, central London (µg/m3) | 31.2 (01 Nov 07:00 UTC) | mean 30.5 |
+| PM2.5, central London (µg/m3) | 27.5 | mean 12.9 |
+| TfL lines with Good Service | 12 of 19 (01 Nov 07:04 UTC) | |
+| TfL disruptions at last snapshot | DLR: Part Closure, Elizabeth line: Reduced Service, Mildmay: Part Closure, Piccadilly: Planned Closure, Suffragette: Planned Closure, Waterloo & City: Planned Closure, Windrush: Part Closure | |
 
 <p align="center"><img src="docs/latest.png" width="90%"></p>
 <!-- LATEST:END -->
