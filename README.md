@@ -11,18 +11,18 @@
 The section below is rewritten by the pipeline on every run. Times are UTC.
 
 <!-- LATEST:START -->
-_Last updated by the pipeline: **2026-11-03 07:17 UTC** · 20 runs · 1,399 half-hours of carbon data since 05 Oct 2026, 704 hours of air quality, 20 TfL snapshots_
+_Last updated by the pipeline: **2026-11-04 07:24 UTC** · 21 runs · 1,447 half-hours of carbon data since 05 Oct 2026, 728 hours of air quality, 21 TfL snapshots_
 
 | Measure | Latest | Last 7 days |
 |---|---|---|
-| Grid carbon intensity, London (gCO2/kWh) | **165** (moderate, 03 Nov 06:30 UTC) | mean 192.1 |
-| Cleanest / dirtiest half-hour | | 59 (Tue 27 Oct 10:00) / 289 (Thu 29 Oct 07:00) |
+| Grid carbon intensity, London (gCO2/kWh) | **205** (high, 04 Nov 06:30 UTC) | mean 199.2 |
+| Cleanest / dirtiest half-hour | | 70 (Mon 02 Nov 03:00) / 289 (Thu 29 Oct 07:00) |
 | Lowest-carbon / highest-carbon hour of day (UTC, 7-day average) | | 12:00 / 17:00 |
-| Wind / gas share of generation | | 21.1% / 44.2% |
-| NO2, central London (µg/m3) | 15.7 (03 Nov 07:00 UTC) | mean 32.5 |
-| PM2.5, central London (µg/m3) | 3.9 | mean 15.1 |
-| TfL lines with Good Service | 15 of 19 (03 Nov 07:17 UTC) | |
-| TfL disruptions at last snapshot | Central: Minor Delays, District: Minor Delays, Elizabeth line: Severe Delays, Suffragette: Part Closure | |
+| Wind / gas share of generation | | 20.2% / 46.0% |
+| NO2, central London (µg/m3) | 18.5 (04 Nov 07:00 UTC) | mean 32.5 |
+| PM2.5, central London (µg/m3) | 8.9 | mean 15.2 |
+| TfL lines with Good Service | 15 of 19 (04 Nov 07:24 UTC) | |
+| TfL disruptions at last snapshot | District: Severe Delays, Elizabeth line: Severe Delays, Metropolitan: Minor Delays, Suffragette: Part Closure | |
 
 <p align="center"><img src="docs/latest.png" width="90%"></p>
 <!-- LATEST:END -->
