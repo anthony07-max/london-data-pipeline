@@ -531,3 +531,22 @@ snapshot_at,line_id,line_name,mode,status_severity,status,reason
 2026-11-11T14:18:00Z,waterloo-city,Waterloo & City,tube,10,Good Service,
 2026-11-11T14:18:00Z,weaver,Weaver,overground,10,Good Service,
 2026-11-11T14:18:00Z,windrush,Windrush,overground,10,Good Service,
+2026-11-12T15:11:00Z,bakerloo,Bakerloo,tube,10,Good Service,
+2026-11-12T15:11:00Z,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to train cancellations.
+2026-11-12T15:11:00Z,circle,Circle,tube,10,Good Service,
+2026-11-12T15:11:00Z,district,District,tube,10,Good Service,
+2026-11-12T15:11:00Z,dlr,DLR,dlr,10,Good Service,
+2026-11-12T15:11:00Z,elizabeth,Elizabeth line,elizabeth-line,9,Minor Delays,Minor delays between Paddington and Abbey Wood while we fix faulty platform screen doors. GOOD SERVICE on the rest of the line.
+2026-11-12T15:11:00Z,hammersmith-city,Hammersmith & City,tube,10,Good Service,
+2026-11-12T15:11:00Z,jubilee,Jubilee,tube,10,Good Service,
+2026-11-12T15:11:00Z,liberty,Liberty,overground,10,Good Service,
+2026-11-12T15:11:00Z,lioness,Lioness,overground,10,Good Service,
+2026-11-12T15:11:00Z,metropolitan,Metropolitan,tube,10,Good Service,
+2026-11-12T15:11:00Z,mildmay,Mildmay,overground,10,Good Service,
+2026-11-12T15:11:00Z,northern,Northern,tube,6,Severe Delays,Northern Line: Severe delays due to an earlier customer incident.Tickets being accepted by London Buses.
+2026-11-12T15:11:00Z,piccadilly,Piccadilly,tube,9,Minor Delays,Piccadilly Line: Minor delays between Acton Town and Heathrow Terminals due to an earlier trespasser on the track at Hounslow Central. GOOD SERVICE on the rest of the line.
+2026-11-12T15:11:00Z,suffragette,Suffragette,overground,10,Good Service,
+2026-11-12T15:11:00Z,victoria,Victoria,tube,10,Good Service,
+2026-11-12T15:11:00Z,waterloo-city,Waterloo & City,tube,10,Good Service,
+2026-11-12T15:11:00Z,weaver,Weaver,overground,10,Good Service,
+2026-11-12T15:11:00Z,windrush,Windrush,overground,10,Good Service,
