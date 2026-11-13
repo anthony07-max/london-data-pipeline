@@ -550,3 +550,22 @@ snapshot_at,line_id,line_name,mode,status_severity,status,reason
 2026-11-12T15:11:00Z,waterloo-city,Waterloo & City,tube,10,Good Service,
 2026-11-12T15:11:00Z,weaver,Weaver,overground,10,Good Service,
 2026-11-12T15:11:00Z,windrush,Windrush,overground,10,Good Service,
+2026-11-13T14:32:00Z,bakerloo,Bakerloo,tube,10,Good Service,
+2026-11-13T14:32:00Z,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to train cancellations.
+2026-11-13T14:32:00Z,circle,Circle,tube,10,Good Service,
+2026-11-13T14:32:00Z,district,District,tube,9,Minor Delays,District Line: Minor delays between Turnham Green and Richmond due to train cancellations. GOOD SERVICE on the rest of the line.
+2026-11-13T14:32:00Z,dlr,DLR,dlr,10,Good Service,
+2026-11-13T14:32:00Z,elizabeth,Elizabeth line,elizabeth-line,10,Good Service,
+2026-11-13T14:32:00Z,hammersmith-city,Hammersmith & City,tube,10,Good Service,
+2026-11-13T14:32:00Z,jubilee,Jubilee,tube,10,Good Service,
+2026-11-13T14:32:00Z,liberty,Liberty,overground,10,Good Service,
+2026-11-13T14:32:00Z,lioness,Lioness,overground,10,Good Service,
+2026-11-13T14:32:00Z,metropolitan,Metropolitan,tube,10,Good Service,
+2026-11-13T14:32:00Z,mildmay,Mildmay,overground,3,Part Suspended,Mildmay Line: No service between Clapham Junction and Shepherd's Bush and SEVERE DELAYS between Willesden Junction  and Shepherd's Bush while we fix a signal failure in the Clapham Junction area. London Underground accepting tickets via any reasonable routes. GOOD SERVICE on the rest the line.
+2026-11-13T14:32:00Z,northern,Northern,tube,9,Minor Delays,Northern Line: Minor delays between Kennington and Morden while we fix a points failure at Morden. GOOD SERVICE on the rest of the line.
+2026-11-13T14:32:00Z,piccadilly,Piccadilly,tube,10,Good Service,
+2026-11-13T14:32:00Z,suffragette,Suffragette,overground,3,Part Suspended,Suffragette Line: No service between Barking and Barking Riverside while we fix a points failure at Barking. GOOD SERVICE on the rest of the line.
+2026-11-13T14:32:00Z,victoria,Victoria,tube,10,Good Service,
+2026-11-13T14:32:00Z,waterloo-city,Waterloo & City,tube,10,Good Service,
+2026-11-13T14:32:00Z,weaver,Weaver,overground,10,Good Service,
+2026-11-13T14:32:00Z,windrush,Windrush,overground,2,Suspended,Windrush Line: No service while we fix a points failure at Surrey Quays. London Underground and London Buses are accepting valid tickets via any reasonable route.
