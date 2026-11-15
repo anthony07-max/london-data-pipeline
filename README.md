@@ -11,18 +11,18 @@
 The section below is rewritten by the pipeline on every run. Times are UTC.
 
 <!-- LATEST:START -->
-_Last updated by the pipeline: **2026-11-14 13:29 UTC** · 31 runs · 1,939 half-hours of carbon data since 05 Oct 2026, 974 hours of air quality, 31 TfL snapshots_
+_Last updated by the pipeline: **2026-11-15 13:54 UTC** · 32 runs · 1,987 half-hours of carbon data since 05 Oct 2026, 998 hours of air quality, 32 TfL snapshots_
 
 | Measure | Latest | Last 7 days |
 |---|---|---|
-| Grid carbon intensity, London (gCO2/kWh) | **136** (moderate, 14 Nov 12:30 UTC) | mean 235.7 |
-| Cleanest / dirtiest half-hour | | 85 (Thu 12 Nov 23:30) / 323 (Sat 07 Nov 20:30) |
-| Lowest-carbon / highest-carbon hour of day (UTC, 7-day average) | | 11:00 / 20:00 |
-| Wind / gas share of generation | | 12.9% / 54.3% |
-| NO2, central London (µg/m3) | 29.3 (14 Nov 13:00 UTC) | mean 44.4 |
-| PM2.5, central London (µg/m3) | 9.4 | mean 20.3 |
-| TfL lines with Good Service | 10 of 19 (14 Nov 13:29 UTC) | |
-| TfL disruptions at last snapshot | District: Severe Delays, Hammersmith & City: Minor Delays, Jubilee: Severe Delays, Metropolitan: Severe Delays, Mildmay: Part Suspended, Northern: Part Closure, Piccadilly: Minor Delays, Suffragette: Part Suspended, Waterloo & City: Planned Closure | |
+| Grid carbon intensity, London (gCO2/kWh) | **166** (moderate, 15 Nov 12:30 UTC) | mean 216.9 |
+| Cleanest / dirtiest half-hour | | 85 (Thu 12 Nov 23:30) / 322 (Mon 09 Nov 00:00) |
+| Lowest-carbon / highest-carbon hour of day (UTC, 7-day average) | | 11:00 / 17:00 |
+| Wind / gas share of generation | | 15.2% / 47.6% |
+| NO2, central London (µg/m3) | 27.3 (15 Nov 13:00 UTC) | mean 42.2 |
+| PM2.5, central London (µg/m3) | 4.2 | mean 16.8 |
+| TfL lines with Good Service | 6 of 19 (15 Nov 13:54 UTC) | |
+| TfL disruptions at last snapshot | Bakerloo: Part Suspended, Central: Minor Delays, District: Part Suspended, DLR: Part Closure, Hammersmith & City: Part Closure, Jubilee: Severe Delays, Lioness: Minor Delays, Metropolitan: Minor Delays, Mildmay: Part Closure, Northern: Part Closure, Suffragette: Part Closure, Waterloo & City: Planned Closure, Windrush: Part Closure | |
 
 <p align="center"><img src="docs/latest.png" width="90%"></p>
 <!-- LATEST:END -->
