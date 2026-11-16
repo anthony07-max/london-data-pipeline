@@ -607,3 +607,22 @@ snapshot_at,line_id,line_name,mode,status_severity,status,reason
 2026-11-15T13:54:00Z,waterloo-city,Waterloo & City,tube,4,Planned Closure,"Waterloo & City line: service operates 06:00 until 00:30, Monday to Friday only. There is no service on Saturdays, Sundays and on bank/public holidays."
 2026-11-15T13:54:00Z,weaver,Weaver,overground,10,Good Service,
 2026-11-15T13:54:00Z,windrush,Windrush,overground,5,Part Closure,"WINDRUSH LINE: Sunday 15 November, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: New Cross Gate - Brockley - Honor Oak Park - Forest Hill - Sydenham - Crystal Palace. Tickets will be accepted on Southern Railway services between Crystal Palace and East Croydon via Norwood Junction. Alternatively, customers may use local buses or trams via any reasonable route."
+2026-11-16T15:42:00Z,bakerloo,Bakerloo,tube,6,Severe Delays,"Bakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone  and MINOR DELAYS on the rest of the line due to an earlier signal failure at Marylebone. Tickets are being accepted on London Buses, Lioness Line, London Northwestern Railway and Thameslink services via reasonable routes."
+2026-11-16T15:42:00Z,central,Central,tube,9,Minor Delays,Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.
+2026-11-16T15:42:00Z,circle,Circle,tube,10,Good Service,
+2026-11-16T15:42:00Z,district,District,tube,9,Minor Delays,District Line: Minor delays between Turnham Green and Ealing Broadway due to train cancellations. GOOD SERVICE on the rest of the line.
+2026-11-16T15:42:00Z,dlr,DLR,dlr,10,Good Service,
+2026-11-16T15:42:00Z,elizabeth,Elizabeth line,elizabeth-line,10,Good Service,
+2026-11-16T15:42:00Z,hammersmith-city,Hammersmith & City,tube,10,Good Service,
+2026-11-16T15:42:00Z,jubilee,Jubilee,tube,10,Good Service,
+2026-11-16T15:42:00Z,liberty,Liberty,overground,10,Good Service,
+2026-11-16T15:42:00Z,lioness,Lioness,overground,10,Good Service,
+2026-11-16T15:42:00Z,metropolitan,Metropolitan,tube,10,Good Service,
+2026-11-16T15:42:00Z,mildmay,Mildmay,overground,10,Good Service,
+2026-11-16T15:42:00Z,northern,Northern,tube,10,Good Service,
+2026-11-16T15:42:00Z,piccadilly,Piccadilly,tube,10,Good Service,
+2026-11-16T15:42:00Z,suffragette,Suffragette,overground,10,Good Service,
+2026-11-16T15:42:00Z,victoria,Victoria,tube,10,Good Service,
+2026-11-16T15:42:00Z,waterloo-city,Waterloo & City,tube,10,Good Service,
+2026-11-16T15:42:00Z,weaver,Weaver,overground,10,Good Service,
+2026-11-16T15:42:00Z,windrush,Windrush,overground,10,Good Service,

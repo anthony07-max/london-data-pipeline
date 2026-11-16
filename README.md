@@ -11,18 +11,18 @@
 The section below is rewritten by the pipeline on every run. Times are UTC.
 
 <!-- LATEST:START -->
-_Last updated by the pipeline: **2026-11-15 13:54 UTC** · 32 runs · 1,987 half-hours of carbon data since 05 Oct 2026, 998 hours of air quality, 32 TfL snapshots_
+_Last updated by the pipeline: **2026-11-16 15:42 UTC** · 33 runs · 2,039 half-hours of carbon data since 05 Oct 2026, 1,024 hours of air quality, 33 TfL snapshots_
 
 | Measure | Latest | Last 7 days |
 |---|---|---|
-| Grid carbon intensity, London (gCO2/kWh) | **166** (moderate, 15 Nov 12:30 UTC) | mean 216.9 |
-| Cleanest / dirtiest half-hour | | 85 (Thu 12 Nov 23:30) / 322 (Mon 09 Nov 00:00) |
-| Lowest-carbon / highest-carbon hour of day (UTC, 7-day average) | | 11:00 / 17:00 |
-| Wind / gas share of generation | | 15.2% / 47.6% |
-| NO2, central London (µg/m3) | 27.3 (15 Nov 13:00 UTC) | mean 42.2 |
-| PM2.5, central London (µg/m3) | 4.2 | mean 16.8 |
-| TfL lines with Good Service | 6 of 19 (15 Nov 13:54 UTC) | |
-| TfL disruptions at last snapshot | Bakerloo: Part Suspended, Central: Minor Delays, District: Part Suspended, DLR: Part Closure, Hammersmith & City: Part Closure, Jubilee: Severe Delays, Lioness: Minor Delays, Metropolitan: Minor Delays, Mildmay: Part Closure, Northern: Part Closure, Suffragette: Part Closure, Waterloo & City: Planned Closure, Windrush: Part Closure | |
+| Grid carbon intensity, London (gCO2/kWh) | **195** (high, 16 Nov 14:30 UTC) | mean 195.4 |
+| Cleanest / dirtiest half-hour | | 85 (Thu 12 Nov 23:30) / 308 (Tue 10 Nov 01:30) |
+| Lowest-carbon / highest-carbon hour of day (UTC, 7-day average) | | 04:00 / 16:00 |
+| Wind / gas share of generation | | 18.7% / 40.2% |
+| NO2, central London (µg/m3) | 30.9 (16 Nov 15:00 UTC) | mean 37.6 |
+| PM2.5, central London (µg/m3) | 4.6 | mean 13.5 |
+| TfL lines with Good Service | 16 of 19 (16 Nov 15:42 UTC) | |
+| TfL disruptions at last snapshot | Bakerloo: Severe Delays, Central: Minor Delays, District: Minor Delays | |
 
 <p align="center"><img src="docs/latest.png" width="90%"></p>
 <!-- LATEST:END -->
