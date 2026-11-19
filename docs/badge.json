@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "London grid now",
-  "message": "229 gCO2/kWh (high)",
-  "color": "orange"
+  "message": "245 gCO2/kWh (very high)",
+  "color": "red"
 }

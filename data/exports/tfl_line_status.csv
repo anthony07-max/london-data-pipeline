@@ -664,3 +664,22 @@ snapshot_at,line_id,line_name,mode,status_severity,status,reason
 2026-11-18T15:37:00Z,waterloo-city,Waterloo & City,tube,10,Good Service,
 2026-11-18T15:37:00Z,weaver,Weaver,overground,10,Good Service,
 2026-11-18T15:37:00Z,windrush,Windrush,overground,10,Good Service,
+2026-11-19T15:43:00Z,bakerloo,Bakerloo,tube,10,Good Service,
+2026-11-19T15:43:00Z,central,Central,tube,9,Minor Delays,Central Line: Minor delays due to train cancellations.
+2026-11-19T15:43:00Z,circle,Circle,tube,10,Good Service,
+2026-11-19T15:43:00Z,district,District,tube,10,Good Service,
+2026-11-19T15:43:00Z,dlr,DLR,dlr,10,Good Service,
+2026-11-19T15:43:00Z,elizabeth,Elizabeth line,elizabeth-line,6,Severe Delays,Severe delays between Hayes & Harlington and Heathrow Terminals and MINOR DELAYS between Paddington and Hayes & Harlington due to an earlier faulty train at Heathrow Airport. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.
+2026-11-19T15:43:00Z,hammersmith-city,Hammersmith & City,tube,10,Good Service,
+2026-11-19T15:43:00Z,jubilee,Jubilee,tube,9,Minor Delays,Jubilee Line: Minor delays due to train cancellations.
+2026-11-19T15:43:00Z,liberty,Liberty,overground,10,Good Service,
+2026-11-19T15:43:00Z,lioness,Lioness,overground,10,Good Service,
+2026-11-19T15:43:00Z,metropolitan,Metropolitan,tube,10,Good Service,
+2026-11-19T15:43:00Z,mildmay,Mildmay,overground,10,Good Service,
+2026-11-19T15:43:00Z,northern,Northern,tube,10,Good Service,
+2026-11-19T15:43:00Z,piccadilly,Piccadilly,tube,10,Good Service,
+2026-11-19T15:43:00Z,suffragette,Suffragette,overground,10,Good Service,
+2026-11-19T15:43:00Z,victoria,Victoria,tube,10,Good Service,
+2026-11-19T15:43:00Z,waterloo-city,Waterloo & City,tube,10,Good Service,
+2026-11-19T15:43:00Z,weaver,Weaver,overground,10,Good Service,
+2026-11-19T15:43:00Z,windrush,Windrush,overground,10,Good Service,
