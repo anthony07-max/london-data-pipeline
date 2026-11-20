@@ -683,3 +683,22 @@ snapshot_at,line_id,line_name,mode,status_severity,status,reason
 2026-11-19T15:43:00Z,waterloo-city,Waterloo & City,tube,10,Good Service,
 2026-11-19T15:43:00Z,weaver,Weaver,overground,10,Good Service,
 2026-11-19T15:43:00Z,windrush,Windrush,overground,10,Good Service,
+2026-11-20T15:25:00Z,bakerloo,Bakerloo,tube,9,Minor Delays,Bakerloo Line: Minor delays due to a track fault at Willesden Junction.
+2026-11-20T15:25:00Z,central,Central,tube,9,Minor Delays,Central Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line.
+2026-11-20T15:25:00Z,circle,Circle,tube,10,Good Service,
+2026-11-20T15:25:00Z,district,District,tube,5,Part Closure,"TUBE STRIKE: Piccadilly line service control staff are taking strike action from Friday 20 until Saturday evening, 21 November. Due to shared infrastructure around the Ealing Common District line depot, there will be no DISTRICT LINE service between Turnham Green and Ealing Broadway from midday on Friday until Saturday evening, with a reduced service on the rest of the line. No Piccadilly line service is expected during the strike. Replacement bus services operate during Friday Night Tube and Sa"
+2026-11-20T15:25:00Z,dlr,DLR,dlr,10,Good Service,
+2026-11-20T15:25:00Z,elizabeth,Elizabeth line,elizabeth-line,10,Good Service,
+2026-11-20T15:25:00Z,hammersmith-city,Hammersmith & City,tube,10,Good Service,
+2026-11-20T15:25:00Z,jubilee,Jubilee,tube,10,Good Service,
+2026-11-20T15:25:00Z,liberty,Liberty,overground,10,Good Service,
+2026-11-20T15:25:00Z,lioness,Lioness,overground,10,Good Service,
+2026-11-20T15:25:00Z,metropolitan,Metropolitan,tube,10,Good Service,
+2026-11-20T15:25:00Z,mildmay,Mildmay,overground,10,Good Service,
+2026-11-20T15:25:00Z,northern,Northern,tube,10,Good Service,
+2026-11-20T15:25:00Z,piccadilly,Piccadilly,tube,4,Planned Closure,"TUBE STRIKE: Piccadilly line service control staff are planning to take strike action from Friday 20 until Saturday evening 21 November. There will be no service from midday on Friday until Saturday evening, including Night Tube on Friday night. Normal Night Tube service is expected to operate on Saturday night. Due to shared infrastructure around the Ealing Common District line depot, there will be no DISTRICT LINE service between Turnham Green and Ealing Broadway from midday on Friday until Sa"
+2026-11-20T15:25:00Z,suffragette,Suffragette,overground,10,Good Service,
+2026-11-20T15:25:00Z,victoria,Victoria,tube,10,Good Service,
+2026-11-20T15:25:00Z,waterloo-city,Waterloo & City,tube,10,Good Service,
+2026-11-20T15:25:00Z,weaver,Weaver,overground,10,Good Service,
+2026-11-20T15:25:00Z,windrush,Windrush,overground,10,Good Service,
