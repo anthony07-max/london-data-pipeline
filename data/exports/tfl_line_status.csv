@@ -816,3 +816,22 @@ snapshot_at,line_id,line_name,mode,status_severity,status,reason
 2026-11-26T16:52:00Z,waterloo-city,Waterloo & City,tube,2,Suspended,Waterloo and City Line: No service due to strike action. Tube services on other lines will finish early tonight so please complete your journey by 21:00.
 2026-11-26T16:52:00Z,weaver,Weaver,overground,10,Good Service,
 2026-11-26T16:52:00Z,windrush,Windrush,overground,10,Good Service,
+2026-11-27T16:37:00Z,bakerloo,Bakerloo,tube,6,Severe Delays,Bakerloo Line: Severe delays due to strike action.
+2026-11-27T16:37:00Z,central,Central,tube,6,Severe Delays,"Central Line: Severe delays due to the unavailability of control room staff. Tickets will be accepted on London Buses, Liberty Line, Elizabeth Line, Chiltern Railways, Great Western Railways and Greater Anglia services via any reasonable route."
+2026-11-27T16:37:00Z,circle,Circle,tube,6,Severe Delays,Circle Line: Severe delays due to strike action.
+2026-11-27T16:37:00Z,district,District,tube,6,Severe Delays,"District Line: Severe delays due to strike action. If you're travelling beyond Earl's Court, please take the first train and change there. Services are operating every 10 minutes."
+2026-11-27T16:37:00Z,dlr,DLR,dlr,10,Good Service,
+2026-11-27T16:37:00Z,elizabeth,Elizabeth line,elizabeth-line,10,Good Service,
+2026-11-27T16:37:00Z,hammersmith-city,Hammersmith & City,tube,6,Severe Delays,Hammersmith and City Line: Severe delays due to strike action.
+2026-11-27T16:37:00Z,jubilee,Jubilee,tube,10,Good Service,
+2026-11-27T16:37:00Z,liberty,Liberty,overground,10,Good Service,
+2026-11-27T16:37:00Z,lioness,Lioness,overground,10,Good Service,
+2026-11-27T16:37:00Z,metropolitan,Metropolitan,tube,9,Minor Delays,Metropolitan Line: Minor delays due to strike action.
+2026-11-27T16:37:00Z,mildmay,Mildmay,overground,10,Good Service,
+2026-11-27T16:37:00Z,northern,Northern,tube,6,Severe Delays,Northern Line: Severe delays due to strike action.
+2026-11-27T16:37:00Z,piccadilly,Piccadilly,tube,6,Severe Delays,Piccadilly Line: Severe delays between Acton Town and Uxbridge and MINOR DELAYS between Acton town and Heathrow terminals due to strike action.  GOOD SERVICE on the rest of the line.
+2026-11-27T16:37:00Z,suffragette,Suffragette,overground,10,Good Service,
+2026-11-27T16:37:00Z,victoria,Victoria,tube,6,Severe Delays,Victoria Line: Severe delays due to strike action.
+2026-11-27T16:37:00Z,waterloo-city,Waterloo & City,tube,10,Good Service,
+2026-11-27T16:37:00Z,weaver,Weaver,overground,10,Good Service,
+2026-11-27T16:37:00Z,windrush,Windrush,overground,10,Good Service,

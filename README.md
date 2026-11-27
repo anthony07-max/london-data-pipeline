@@ -11,18 +11,18 @@
 The section below is rewritten by the pipeline on every run. Times are UTC.
 
 <!-- LATEST:START -->
-_Last updated by the pipeline: **2026-11-26 16:52 UTC** · 43 runs · 2,521 half-hours of carbon data since 05 Oct 2026, 1,265 hours of air quality, 43 TfL snapshots_
+_Last updated by the pipeline: **2026-11-27 16:37 UTC** · 44 runs · 2,569 half-hours of carbon data since 05 Oct 2026, 1,289 hours of air quality, 44 TfL snapshots_
 
 | Measure | Latest | Last 7 days |
 |---|---|---|
-| Grid carbon intensity, London (gCO2/kWh) | **251** (very high, 26 Nov 15:30 UTC) | mean 202.0 |
+| Grid carbon intensity, London (gCO2/kWh) | **227** (high, 27 Nov 15:30 UTC) | mean 199.0 |
 | Cleanest / dirtiest half-hour | | 94 (Sun 22 Nov 06:30) / 283 (Mon 23 Nov 07:00) |
-| Lowest-carbon / highest-carbon hour of day (UTC, 7-day average) | | 03:00 / 18:00 |
-| Wind / gas share of generation | | 20.4% / 41.4% |
-| NO2, central London (µg/m3) | 36.1 (26 Nov 16:00 UTC) | mean 38.2 |
-| PM2.5, central London (µg/m3) | 14.2 | mean 12.2 |
-| TfL lines with Good Service | 7 of 19 (26 Nov 16:52 UTC) | |
-| TfL disruptions at last snapshot | Bakerloo: Part Suspended, Central: Part Suspended, Circle: Suspended, District: Severe Delays, Hammersmith & City: Severe Delays, Jubilee: Minor Delays, Metropolitan: Part Suspended, Mildmay: Severe Delays, Northern: Severe Delays, Piccadilly: Part Suspended, Victoria: Severe Delays, Waterloo & City: Suspended | |
+| Lowest-carbon / highest-carbon hour of day (UTC, 7-day average) | | 03:00 / 16:00 |
+| Wind / gas share of generation | | 23.3% / 41.6% |
+| NO2, central London (µg/m3) | 39.8 (27 Nov 16:00 UTC) | mean 38.0 |
+| PM2.5, central London (µg/m3) | 17.9 | mean 13.3 |
+| TfL lines with Good Service | 10 of 19 (27 Nov 16:37 UTC) | |
+| TfL disruptions at last snapshot | Bakerloo: Severe Delays, Central: Severe Delays, Circle: Severe Delays, District: Severe Delays, Hammersmith & City: Severe Delays, Metropolitan: Minor Delays, Northern: Severe Delays, Piccadilly: Severe Delays, Victoria: Severe Delays | |
 
 <p align="center"><img src="docs/latest.png" width="90%"></p>
 <!-- LATEST:END -->
