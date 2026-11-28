@@ -11,18 +11,18 @@
 The section below is rewritten by the pipeline on every run. Times are UTC.
 
 <!-- LATEST:START -->
-_Last updated by the pipeline: **2026-11-27 16:37 UTC** · 44 runs · 2,569 half-hours of carbon data since 05 Oct 2026, 1,289 hours of air quality, 44 TfL snapshots_
+_Last updated by the pipeline: **2026-11-28 15:29 UTC** · 45 runs · 2,615 half-hours of carbon data since 05 Oct 2026, 1,312 hours of air quality, 45 TfL snapshots_
 
 | Measure | Latest | Last 7 days |
 |---|---|---|
-| Grid carbon intensity, London (gCO2/kWh) | **227** (high, 27 Nov 15:30 UTC) | mean 199.0 |
-| Cleanest / dirtiest half-hour | | 94 (Sun 22 Nov 06:30) / 283 (Mon 23 Nov 07:00) |
+| Grid carbon intensity, London (gCO2/kWh) | **143** (moderate, 28 Nov 14:30 UTC) | mean 188.9 |
+| Cleanest / dirtiest half-hour | | 83 (Sat 28 Nov 04:30) / 283 (Mon 23 Nov 07:00) |
 | Lowest-carbon / highest-carbon hour of day (UTC, 7-day average) | | 03:00 / 16:00 |
-| Wind / gas share of generation | | 23.3% / 41.6% |
-| NO2, central London (µg/m3) | 39.8 (27 Nov 16:00 UTC) | mean 38.0 |
-| PM2.5, central London (µg/m3) | 17.9 | mean 13.3 |
-| TfL lines with Good Service | 10 of 19 (27 Nov 16:37 UTC) | |
-| TfL disruptions at last snapshot | Bakerloo: Severe Delays, Central: Severe Delays, Circle: Severe Delays, District: Severe Delays, Hammersmith & City: Severe Delays, Metropolitan: Minor Delays, Northern: Severe Delays, Piccadilly: Severe Delays, Victoria: Severe Delays | |
+| Wind / gas share of generation | | 28.1% / 40.0% |
+| NO2, central London (µg/m3) | 17.4 (28 Nov 15:00 UTC) | mean 33.5 |
+| PM2.5, central London (µg/m3) | 8.5 | mean 13.1 |
+| TfL lines with Good Service | 7 of 19 (28 Nov 15:29 UTC) | |
+| TfL disruptions at last snapshot | Bakerloo: Minor Delays, Central: Minor Delays, Circle: Part Closure, District: Part Closure, Elizabeth line: Part Closure, Hammersmith & City: Planned Closure, Jubilee: Minor Delays, Liberty: Planned Closure, Metropolitan: Part Closure, Piccadilly: Part Suspended, Waterloo & City: Planned Closure, Windrush: Part Closure | |
 
 <p align="center"><img src="docs/latest.png" width="90%"></p>
 <!-- LATEST:END -->
